@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
-  "changelog": "- тест.",
+  "version": "2.1",
+  "changelog": "- Исправлено отображение PK.",
   "downloadUrl": "https://mirror.enotixa.ru/info"
 }
